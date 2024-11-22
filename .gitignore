@@ -1,0 +1,10 @@
+# Jupyter's files
+.ipynb_checkpoints/
+.jupyter/
+
+# MyPy files
+.mypy_cache/
+
+# Virtual environments' files
+*.env
+venv/
